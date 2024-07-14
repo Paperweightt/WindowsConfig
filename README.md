@@ -8,7 +8,7 @@ my personal to-do list for a new windows system
 - [ neovim & neovide ]
   ```
   winget install Neovim.Neovim
-  gh repo clone Paperweightt/neovimConfig
+  git clone --depth 1 https://github.com/Paperweightt/neovimConfig $env:LOCALAPPDATA\nvim
   $ scoop install neovide
   ```
 - [ glaze-wm ]
