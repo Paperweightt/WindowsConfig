@@ -1,10 +1,13 @@
 # WindowsConfig
 my personal to-do list for a new windows system
-
+- [ github cli]
+  ```
+  winget install --id GitHub.cli
+  ```
 - [ neovim & neovide ]
   ```
   winget install Neovim.Neovim
-  git clone --depth 1 https://github.com/AstroNvim/template ~/.config/nvim
+  gh repo clone Paperweightt/neovimConfig
   $ scoop install neovide
   ```
 - [ glaze-wm ]
