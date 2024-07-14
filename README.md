@@ -1,7 +1,7 @@
 # WindowsConfig
 my personal to-do list for a new windows system
 
-- neovim with neovide
+- [ neovim & neovide ]
   ```
   winget install Neovim.Neovim
   git clone --depth 1 https://github.com/AstroNvim/template ~/.config/nvim
