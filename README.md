@@ -1,7 +1,8 @@
 # WindowsConfig
 my personal to-do list for a new windows system
-- [ github cli ]
+- [ github & github cli ]
   ```
+  winget install --id Git.Git -e --source winget
   winget install --id GitHub.cli
   ```
 - [ neovim & neovide ]
