@@ -1,6 +1,6 @@
 # WindowsConfig
 my personal to-do list for a new windows system
-- [ github cli]
+- [ github cli ]
   ```
   winget install --id GitHub.cli
   ```
