@@ -14,3 +14,7 @@ my personal to-do list for a new windows system
 - [ switcheroo ]
   https://github.com/kvakulo/Switcheroo/releases/download/v0.9.2/switcheroo-setup.exe
   
+# todo list
+
+- add autohotkey for switcheroo
+- add glaze config
