@@ -15,9 +15,10 @@ my personal to-do list for a new windows system
   ```
   winget install GlazeWM
   ```
-- [ switcheroo ]
-  https://github.com/kvakulo/Switcheroo/releases/download/v0.9.2/switcheroo-setup.exe
-  
+- [ flow launcher ]
+  ```
+  winget install "Flow Launcher"
+  ```
 # todo list
 
 - add autohotkey for switcheroo
