@@ -21,5 +21,5 @@ my personal to-do list for a new windows system
   ```
 # todo list
 
-- add autohotkey for switcheroo
+- add flow config + plugins
 - add glaze config
